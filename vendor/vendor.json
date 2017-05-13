@@ -7,6 +7,12 @@
 			"path": "github.com/gliderlabs/ssh",
 			"revision": "bbb28830b0470b600305f16ca7c39be4a71bfe10",
 			"revisionTime": "2017-04-29T05:11:02Z"
+		},
+		{
+			"checksumSHA1": "fsrFs762jlaILyqqQImS1GfvIvw=",
+			"path": "golang.org/x/crypto/ssh",
+			"revision": "453249f01cfeb54c3d549ddb75ff152ca243f9d8",
+			"revisionTime": "2017-02-08T20:51:15Z"
 		}
 	],
 	"rootPath": "github.com/lehmrob/remotectrl"
