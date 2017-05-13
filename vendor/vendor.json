@@ -1,0 +1,13 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "LeWkjP5sYlOMikN1yn6sDlUnbG8=",
+			"path": "github.com/gliderlabs/ssh",
+			"revision": "bbb28830b0470b600305f16ca7c39be4a71bfe10",
+			"revisionTime": "2017-04-29T05:11:02Z"
+		}
+	],
+	"rootPath": "github.com/lehmrob/remotectrl"
+}
